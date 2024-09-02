@@ -22,4 +22,4 @@ Fine tuned CNN Model
 Workflow: 
 pre-traind CNN model is loaded -> weights are freezed -> new weights are introduced -> Image is Augmented -> Trained -> made Predictions
 
-Files associated are- fine_tune_CNN, 
+Files associated are- fine_tune_CNN, rag_imp1
