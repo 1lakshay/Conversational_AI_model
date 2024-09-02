@@ -1,0 +1,7 @@
+accelerate
+peft
+bitsandbytes
+trl
+PyPDF2
+datasets
+huggingface_hub
