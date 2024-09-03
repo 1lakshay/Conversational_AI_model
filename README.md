@@ -24,6 +24,7 @@ pre-traind CNN model is loaded -> weights are freezed -> new weights are introdu
 
 Files associated are- fine_tune_CNN, rag_imp1, 
 Fine tuned saved model- https://drive.google.com/file/d/1LUaARDkjFULj6WS6RER8mEn_c58mO_iq/view?usp=drive_link, 
+
 Image dataset- https://drive.google.com/file/d/1VoxsGZO85Z8Yj9IAPZByfLoDMdyWDsGb/view?usp=drive_link
 
 ### Future enhancements
